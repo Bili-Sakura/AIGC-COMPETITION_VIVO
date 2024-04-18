@@ -1,0 +1,2 @@
+# AIGC-COMPETITION_VIVO
+2024中国高校计算机大赛AIGC创新赛
